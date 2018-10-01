@@ -1,0 +1,9 @@
+body {
+    background-image: url("../images/leaves.png");
+}
+
+#currentDateTime {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: #FFDAB9;
+}
