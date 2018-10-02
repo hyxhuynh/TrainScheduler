@@ -7,3 +7,8 @@ body {
     text-align: center;
     color: #FFDAB9;
 }
+
+thead {
+    font-weight: 700;
+}
+
