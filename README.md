@@ -27,7 +27,7 @@ Download the files to your computer from https://github.com/hyxhuynh/TrainSchedu
 
 Or visit: https://hyxhuynh.github.io/TrainScheduler/
 
-<a name="Display"></a>
+<a name="display"></a>
 ## App Display
 
 ![](assets/images/TrainScheduler.png)
